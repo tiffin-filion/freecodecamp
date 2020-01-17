@@ -9,7 +9,7 @@
     - [ ] CSS Flexbox
     - [ ] CSS Grid
     - [ ] Responsive Web Design Projects
-2. JavaSCript Algorithms and Data Structures Certification (300 hours)
+2. JavaScript Algorithms and Data Structures Certification (300 hours)
 3. Front End Libraries Certification (300 hours)
 4. Data Visualization Certification (300 hours)
 5. APIs and Microservices Certification (300 hours)
