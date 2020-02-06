@@ -6,8 +6,8 @@
     - [x] Applied Visual Design
     - [x] Applied Accessibility
     - [x] Responsive Web Design Principles
-    - [ ] CSS Flexbox
-    - [ ] CSS Grid
+    - [x] CSS Flexbox
+    - [x] CSS Grid
     - [ ] Responsive Web Design Projects
 2. JavaScript Algorithms and Data Structures Certification (300 hours)
 3. Front End Libraries Certification (300 hours)
