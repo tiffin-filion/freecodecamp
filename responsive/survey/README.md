@@ -1,0 +1,17 @@
+# build a survey form
+- see a title with id of title in h1 sized text
+- can see a short explanation with id of description in p sized text
+- can see a form with id of survey-form
+- inside the form element, required to enter a name in the field with id of name
+- inside the form element, required to enter an email in a filed with id of email
+- if an entered email address is not formatted correctly, will see an error
+- inside the form, can enter a number in a field with id of number
+- if non-numbers entered into number input, will see an error
+- if enter numbers outside the range of number input, which are defined by min and max attributes, will see an error
+- for name, email and number input fields inside the form, can see corresponding labels that describe the purpose of each field with the following ids: name-label, email-label, number-label
+- for name, email and number input fields, can see placeholder text that gives me that gives description of each field
+- inside form element, can select an option from a dropdown that has a corresponding id of dropdown
+- inside form element, can select a field from one or more groups of radio buttons. each group should be grouped using the name attribute
+- inside form element, can select several fields from a series of checkboxes, each of which must have a value attribute
+- inside form element, presented with a textarea at the end for additional comments
+- inside form element, presented with a button with id of submit to submit all inputs

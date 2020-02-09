@@ -1,0 +1,16 @@
+# build a product landing page
+- product landing page should have a header element with a corresponding id of header
+- can see an image within the header element with a corresponding id of header-img
+- within the header element, can see a nav element with a corresponding id of nav-bar
+- can see at least three clickable elements insdie the nav element, each with the class nav-link
+- when nav-link button in the nav element is clicked, taken to corresponding section of the landing page
+- can watch an embedded product video with an id of video
+- landing page has a form element with a corresponding id of form
+- within the form, there is an input field with an id of email, where an email address can be entered
+- email input field should have placeholder text to let user know what the field is for
+- email input field uses validation to confirm text entered is an email address
+- within the form, there is a submit input with a corresponding id of submit
+- when submit element is clicked, email is submitted to a static page (https://www.freecodecamp.com/email-submit)
+- navbar should always be at the top of the viewport
+- product landing page should have at least one media query
+- product landing page should utilize css flexbox at least once

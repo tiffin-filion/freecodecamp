@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>Technical Documentation Page</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+<body>
+
+<div id="main">
+  
+  <h1 id="title">freeCodeCamp Survey Form</h1>
+  <p id="description">Please fill out this form and let me know if you love FCC as much as I do</p>
+  
+  <form id="survey-form">
+    
+    <!-- Name -->
+    <label for="name" id="name-label">Name</label>
+    <br />
+    <input type="text" id="name" name="name" required placeholder="Please enter your full name" />
+     <br />
+    
+    <!-- Email -->
+    <label for="email" id="email-label">Email</label>
+    <br />
+    <input type="email" id="email" name="email"  required placeholder="Enter your email address" />
+     <br />
+    
+    <!-- Number -->
+      <label for="number" id="number-label">Age (optional)</label>
+    <br />
+    <input type="number" id="number" name="number" min="10" max="99" placeholder="Age" />
+     <br />
+    
+    <!-- Dropdown -->
+      <label for="dropdown" id="dropdown-label">How many certifications have you completed? </label>
+    <br />
+    <select name="dropdown" id="dropdown">
+      <option value="one">One</option>
+      <option value="two">Two</option>
+      <option value="three">Three</option>
+      <option value="four">Four</option>
+      <option value="five">Five</option>
+      <option value="six">All Six</option>
+     </select>
+     <br />
+    
+    <!-- Radio Buttons -->
+      Which one was your favorite?<br />
+      <input type="radio" name="favorite" id="responsive" value="responsive" /><label for="responsive">Responsive Web Design</label>
+      <br />
+      <input type="radio" name="favorite" id="javascript" value="javascript" /><label for="javascript">JavaScript Algorithms and Data Structures</label>
+      <br />
+      <input type="radio" name="favorite" id="front-end" value="front-end" /><label for="front-end">Front End Libraries</label>
+      <br />
+      <input type="radio" name="favorite" id="visualization" value="visualization" /><label for ="visualization">Data Vizualization</label>
+      <br />
+      <input type="radio" name="favorite" id="api" value="api" /><label for="api">APIs and Microservices</label>
+      <br />
+      <input type="radio" name="favorite" id="security" value="security" /><label for="security">Information Security and Quality Assurance</label>
+      <br />
+
+      
+    <!-- Checkboxes -->
+    Which features do you like?<br />
+    <input type="checkbox" name="features" id="challenges" value="challenges" /><label for="challenges">Challenges</label>
+    <br />
+    <input type="checkbox" name="features" id="projects" value="projects" /><label for="projects">Projects</label>
+    <br />
+    <input type="checkbox" name="features" id="community" value="community" /><label for="community">Community</label>
+    <br />
+    <input type="checkbox" name="features" id="open-source" value="open-source" /><label for="open-source">Open-Source</label>
+    <br />
+    
+    <!-- Textarea -->
+    Anything else you'd liked to say?<br />
+    <textarea name="comments" id="comments" placeholder="Enter your comment(s) here..."></textarea>
+    <br />
+    
+    <!-- Button -->
+    <button type="submit" value="submit" id="submit">Submit</button>
+  
+  </form>
+  
+</div>
+</body>
+</html>

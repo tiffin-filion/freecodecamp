@@ -1,0 +1,12 @@
+# build a personal portfolio page
+- portfolio should have a welcome section with an id of welcome-section
+- welcome section should have an h1 element that contains text
+- portfolio should have a projects section with an id of projects
+- projects section should contain at least one element with a class of project-tile to hold a project
+- projects section should contain at least one link to a project
+- portfolio should have a navbar with an id of navbar
+- navbar should contain at least one link that will navigate to different sections of the page
+- portfolio should have a link with an id of profile-link, which opens github or fcc profile in a new tab
+- portfolio should have at least one media query
+- height of welcome section should be equal to height of the viewport
+- navbar should always be at the top of the viewport

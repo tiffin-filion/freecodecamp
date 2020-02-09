@@ -1,0 +1,63 @@
+#main {
+  background-color: lightgray;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.125em;
+  line-height: 1.5;
+}
+
+#title {
+  display: block;
+  color: purple;
+}
+
+p {
+  font-style: italic;
+  margin-top: -20px;
+  margin-bottom: 40px;
+}
+
+#survey-form {
+  border: 2px solid purple;
+  border-radius: 10px;
+  text-align: justify;
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: lavenderblush;
+}
+
+#name, #email, #number, select, #comments {
+  border-color: purple;
+  border-radius: 10px;
+  background-color: lavenderblush;
+  padding: 5px;
+  line-height: 1.5;
+  font-size: 1.125em;
+  margin-bottom: 20px;
+}
+
+#security, #open-source {
+  margin-bottom: 20px;
+}
+
+#name, #email, #comments {
+  width: 96%;
+}
+
+#comments {
+  height: 90px;
+}
+
+#submit {
+  line-height: 1.5;
+  font-size: 1.125em;
+  border-radius: 10px;
+  border-color: purple;
+  background-color: lavenderblush;
+  padding: 5px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}

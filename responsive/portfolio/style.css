@@ -1,0 +1,155 @@
+#content-area {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #E4FDE1;
+  color: #114B5F;
+  margin: 0 auto;
+  font-size: 1.1em;
+  line-height: 1.4;
+  min-width: 320px;
+  position: absolute;
+}
+
+#navbar {
+  position: fixed;
+  min-height: 25px;
+  background-color: #F45B69;
+  width: 90vw;
+  text-align: right;
+  padding: 25px;
+}
+
+#navbar ul {
+  padding: 0;
+  margin: 0;
+}
+
+#navbar li {
+  display: inline;
+  list-style: none;
+  margin: 0 25px;
+}
+
+#navbar a {
+  color: #E4FDE1;
+  text-decoration: none;
+}
+
+#navbar a:hover {
+  color: #6B2737;
+}
+
+#welcome-section {
+  height: 100vh;
+  text-align: center;
+}  
+
+h1 {
+  margin-top: 30vh;
+  margin-bottom: 0;
+  font-size: 10vh;
+  text-transform: capitalize;
+}
+
+h2 {
+  color: #6B2737;
+  margin: 0;
+  font-size: 6vh;
+  text-transform: lowercase;
+}
+  
+#projects {
+  display: flex;
+  background-color: #456990;
+  color: #E4FDE1;
+  padding: 60px 25px 25px 25px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.project-tile {
+   margin: 25px;
+}
+
+#projects li {
+  list-style: none;
+}
+
+#projects a {
+  color: #E4FDE1;
+  text-decoration: none;
+}
+
+#projects a:hover {
+  color: #114B5F;
+}
+
+#projects img {
+  display: block;
+}
+
+#contact {
+  padding: 60px 25px 25px 25px;
+  height: 50vh;
+}
+
+#social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#github, #fcc, #linkedin, #instagram, #twitter, #email {
+  position: relative;
+  margin: 25px;
+}
+
+#github a, #fcc a, #linkedin a, #instagram a, #twitter a, #email a {
+  text-decoration: none;
+  color: #114B5F;
+}
+
+#github:hover, #fcc:hover, #linkedin:hover, #instagram:hover, #twitter:hover, #email:hover {
+  top: 5px;
+}
+
+#fcc img {
+  height: 25px;
+  color: #000000;
+  filter: invert(100%);
+}
+
+#email img {
+  width: 25px;
+}
+
+footer {
+  min-height: 25px;
+  background-color: #F45B69;
+  color: #E4FDE1;
+  width: 90vw;
+  text-align: left;
+  padding: 25px;
+}
+
+@media (max-width: 425px) {
+  
+  #navbar li {
+    display: block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  #projects, #contact {
+    padding-top: 85px;
+  }
+  
+  #social {
+    display: inline;
+  }
+  
+  #social a {
+    margin: 29px;
+  }
+}
