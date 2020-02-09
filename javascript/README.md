@@ -11,8 +11,8 @@ Need to complete the following courses:
 - [ ] Intermediate Algorithm Scripting
 
 Need to complete the following projects:
-- [ ] [Palindrome Checker]
-- [ ] [Roman Numberal Converter]
-- [ ] [Caesars Cipher]
-- [ ] [Telephone Number Validator]
-- [ ] [Cash Register]
+- [ ] Palindrome Checker
+- [ ] Roman Numberal Converter
+- [ ] Caesars Cipher
+- [ ] Telephone Number Validator
+- [ ] Cash Register

@@ -5,8 +5,8 @@ Need to complete the following courses:
 - [ ] Advanced Node and Express
 
 Need to complete the following projects:
-- [ ] [Metric-Imperial Converter](#)
-- [ ] [Issue Tracker](#)
-- [ ] [Personal Library](#)
-- [ ] [Stock Price Checker](#)
-- [ ] [Anonymous Message Board](#)
+- [ ] Metric-Imperial Converter
+- [ ] Issue Tracker
+- [ ] Personal Library
+- [ ] Stock Price Checker
+- [ ] Anonymous Message Board
