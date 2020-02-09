@@ -1,19 +1,12 @@
 # [freeCodeCamp](https://www.freecodecamp.org/tiggertiffin87)
 ### finished projects from learning on freeCodeCamp.com
 1. [x] Responsive Web Design Certification (300 hours)
-    - Basic HTML and HTML5
-    - Basic CSS
-    - Applied Visual Design
-    - Applied Accessibility
-    - Responsive Web Design Principles
-    - CSS Flexbox
-    - CSS Grid
     - Responsive Web Design Projects
-        - Build a Tribute Page
-        - Build a Survey Form
-        - Build a Project Landing Page
-        - Build a Technical Documentation Page
-        - Build a Personal Portfolio Webpage
+        - [Build a Tribute Page](https://tiffin-filion.github.io/freeCodeCamp/responsive/tribute/index.html)
+        - [Build a Survey Form](https://tiffin-filion.github.io/freeCodeCamp/responsive/survey/index.html)
+        - [Build a Project Landing Page](https://tiffin-filion.github.io/freeCodeCamp/responsive/project/index.html)
+        - [Build a Technical Documentation Page](https://tiffin-filion.github.io/freeCodeCamp/responsive/tech-doc/index.html)
+        - [Build a Personal Portfolio Webpage](https://tiffin-filion.github.io/freeCodeCamp/responsive/portfolio/index.html)
 2. [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
 3. [ ] Front End Libraries Certification (300 hours)
 4. [ ] Data Visualization Certification (300 hours)
