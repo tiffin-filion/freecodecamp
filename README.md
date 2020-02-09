@@ -4,7 +4,7 @@
     - Responsive Web Design Projects
         - [Build a Tribute Page](https://tiffin-filion.github.io/freeCodeCamp/responsive/tribute/index.html)
         - [Build a Survey Form](https://tiffin-filion.github.io/freeCodeCamp/responsive/survey/index.html)
-        - [Build a Prodect Landing Page](https://tiffin-filion.github.io/freeCodeCamp/responsive/product/index.html)
+        - [Build a Product Landing Page](https://tiffin-filion.github.io/freeCodeCamp/responsive/product/index.html)
         - [Build a Technical Documentation Page](https://tiffin-filion.github.io/freeCodeCamp/responsive/tech-doc/index.html)
         - [Build a Personal Portfolio Webpage](https://tiffin-filion.github.io/freeCodeCamp/responsive/portfolio/index.html)
 2. [ ] JavaScript Algorithms and Data Structures Certification (300 hours)
