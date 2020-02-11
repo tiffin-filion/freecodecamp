@@ -1,5 +1,3 @@
-# [freecodecamp](https://www.freecodecamp.org/tiggertiffin87)
-### finished projects from learning on freecodecamp.com
 1. [x] Responsive Web Design Certification (300 hours)
     - Responsive Web Design Projects
         - [Build a Tribute Page](https://tiffin-filion.github.io/freecodecamp/responsive/tribute/index.html)
